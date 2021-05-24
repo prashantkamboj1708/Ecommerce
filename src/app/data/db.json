@@ -1,0 +1,68 @@
+{
+  "admin": {
+    "email": "admin@mail.com",
+    "password": "adminpass"
+  },
+  "users": [
+    {
+      "name": "shubham",
+      "email": "shubhamqwe129@gmail.com",
+      "address": "adasd",
+      "id": 2,
+      "password": "pass",
+      "Cpassword": "pass",
+      "src": "assets/img2.jpg",
+      "block": false,
+      "friends": [],
+      "requests": []
+    },
+    {
+      "name": "sumit",
+      "email": "shubham.eng1999@gmail.com",
+      "address": "gzb",
+      "id": 879,
+      "password": "pass",
+      "Cpassword": "pass",
+      "src": "assets/img13.jpg",
+      "block": false,
+      "friends": [],
+      "requests": []
+    },
+    {
+      "name": "vineet",
+      "email": "oo7shubham4347@gmail.com",
+      "address": "ghaziabad",
+      "id": 54,
+      "password": "pass",
+      "Cpassword": "pass",
+      "src": "assets/img11.jpg",
+      "block": false,
+      "friends": [],
+      "requests": []
+    },
+    {
+      "name": "Prashant Kamboj",
+      "email": "prashantkamboj1708@gmail.com",
+      "address": "house no. 253 dayanand colony model town7",
+      "id": 55,
+      "password": "123",
+      "Cpassword": "123",
+      "src": "assets/null",
+      "block": false,
+      "friends": [],
+      "requests": []
+    },
+    {
+      "name": "Prashant",
+      "email": "hk893009@gmail.com",
+      "address": "House no. 253 Dayanand colony",
+      "id": 77,
+      "password": "777",
+      "Cpassword": "777",
+      "src": "assets/null",
+      "block": false,
+      "friends": [],
+      "requests": []
+    }
+  ]
+}
